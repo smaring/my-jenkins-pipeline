@@ -1,3 +1,3 @@
 @SharedLibrary('lib') _
 
-pipeline()
+pipeline(currentBuild.getNumber())
