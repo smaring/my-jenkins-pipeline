@@ -1,5 +1,5 @@
 
-def call(String name) {
+def call(Closure closure) {
   pipeline {
     agent none
     stages {
