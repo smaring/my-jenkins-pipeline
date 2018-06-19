@@ -1,5 +1,5 @@
 
-def call(int buildNumber) {
+def call(Closure cls) {
   pipeline {
     agent none
     stages {
