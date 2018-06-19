@@ -1,5 +1,5 @@
 
-def call(Closure cls) {
+def call() {
   pipeline {
     agent none
     stages {
