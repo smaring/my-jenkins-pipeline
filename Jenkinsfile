@@ -1,3 +1,3 @@
-@SharedLibrary('lib') _
+@SharedLibrary('lib/') _
 
 pipeline()
